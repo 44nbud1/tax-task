@@ -4,8 +4,6 @@ import systems.achilles.tax.cli.exception.TaxException;
 import systems.achilles.tax.cli.util.message.MessageUtil;
 import systems.achilles.tax.cli.util.process.ProcessStd;
 
-import java.util.logging.Logger;
-
 /**
  * @author Aan Budi Setiawan
  */

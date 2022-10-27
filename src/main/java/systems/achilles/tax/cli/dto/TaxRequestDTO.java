@@ -2,6 +2,10 @@ package systems.achilles.tax.cli.dto;
 
 import lombok.*;
 
+/**
+ * @author Aan Budi Setiawan
+ */
+
 @Builder
 @AllArgsConstructor
 @NoArgsConstructor
