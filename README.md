@@ -149,29 +149,29 @@ In order to make easier when develop the tak, I use several library from maven r
 
 
     
-      For tax CAPITOL_GAIN, customer 2751 has declared $826.78
-      For tax CAPITOL_GAIN, customer 3201 has declared $1000.81
-      For tax CAPITOL_GAIN, customer 3327 has declared $349.04
-      For tax CAPITOL_GAIN, customer 4527 has declared $1678.94
-      For tax CAPITOL_GAIN, customer 4758 has declared $634.92
-      For tax CAPITOL_GAIN, customer 6908 has declared $346.46
-      For tax CAPITOL_GAIN, customer 8143 has declared $172.57
-      For tax COMPANY_TAX, customer 3077 has declared $492.66
-      For tax COMPANY_TAX, customer 3201 has declared $1210.84
-      For tax COMPANY_TAX, customer 3327 has declared $122.56
-      For tax COMPANY_TAX, customer 5218 has declared $950.60
-      For tax COMPANY_TAX, customer 6908 has declared $835.85
-      For tax GST, customer 3077 has declared $1786.95
-      For tax GST, customer 4758 has declared $654.94
-      For tax LAND_TAX, customer 3201 has declared $1085.25
-      For tax LAND_TAX, customer 3327 has declared $303.96
-      For tax LAND_TAX, customer 5218 has declared $460.82
-      For tax LAND_TAX, customer 6908 has declared $632.53
-      For tax LAND_TAX, customer 9832 has declared $632.28
-      For tax PAYROLL, customer 3201 has declared $563.19
-      For tax PAYROLL, customer 3327 has declared $827.01
-      For tax PAYROLL, customer 6908 has declared $942.44
-      For tax PAYROLL, customer 8143 has declared $1038.43
+	      For tax CAPITOL_GAIN, customer 2751 has declared $826.78
+	      For tax CAPITOL_GAIN, customer 3201 has declared $1000.81
+	      For tax CAPITOL_GAIN, customer 3327 has declared $349.04
+	      For tax CAPITOL_GAIN, customer 4527 has declared $1678.94
+	      For tax CAPITOL_GAIN, customer 4758 has declared $634.92
+	      For tax CAPITOL_GAIN, customer 6908 has declared $346.46
+	      For tax CAPITOL_GAIN, customer 8143 has declared $172.57
+	      For tax COMPANY_TAX, customer 3077 has declared $492.66
+	      For tax COMPANY_TAX, customer 3201 has declared $1210.84
+	      For tax COMPANY_TAX, customer 3327 has declared $122.56
+	      For tax COMPANY_TAX, customer 5218 has declared $950.60
+	      For tax COMPANY_TAX, customer 6908 has declared $835.85
+	      For tax GST, customer 3077 has declared $1786.95
+	      For tax GST, customer 4758 has declared $654.94
+	      For tax LAND_TAX, customer 3201 has declared $1085.25
+	      For tax LAND_TAX, customer 3327 has declared $303.96
+	      For tax LAND_TAX, customer 5218 has declared $460.82
+	      For tax LAND_TAX, customer 6908 has declared $632.53
+	      For tax LAND_TAX, customer 9832 has declared $632.28
+	      For tax PAYROLL, customer 3201 has declared $563.19
+	      For tax PAYROLL, customer 3327 has declared $827.01
+	      For tax PAYROLL, customer 6908 has declared $942.44
+	      For tax PAYROLL, customer 8143 has declared $1038.43
 
 6. If there are some exceptions occurs, the system will give you a message: 
 
