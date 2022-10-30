@@ -34,6 +34,12 @@ Hello, In this project have finished to create a tax computation cli in java. In
 In order to make easier when develop the tak, I use several library from maven repository: 
 
 		<dependency>
+			<groupId>io.github.hakky54</groupId>
+			<artifactId>consolecaptor</artifactId>
+			<version>1.0.0</version>
+			<scope>test</scope>
+		</dependency>
+		<dependency>
 			<groupId>junit</groupId>
 			<artifactId>junit</artifactId>
 			<version>4.11</version>

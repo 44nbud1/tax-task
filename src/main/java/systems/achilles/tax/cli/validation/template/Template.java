@@ -17,7 +17,6 @@ public class Template {
         } catch (TaxException ex) {
             System.out.printf("[Tax_Service]Error occur: %s", ex.getMessage());
             MessageUtil.printUsage();
-            System.exit(1);
         } catch (Throwable throwable) {
             System.out.printf("[Tax_Service]Error occur unknown exception: %s", throwable.getMessage());
             MessageUtil.printUsage();

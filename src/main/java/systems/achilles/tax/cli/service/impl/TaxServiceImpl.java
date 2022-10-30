@@ -31,7 +31,7 @@ public class TaxServiceImpl implements TaxService {
 
             @Override
             public void checkParameter() {
-                ValidationUtil.NOT_NUL(taxRequestModels, TaxErrorDescCode.PARAMETER_ERROR, "Tax type can't be null");
+                ValidationUtil.NOT_NUL(taxRequestModels, TaxErrorDescCode.PARAMETER_ERROR, "TaxRequestModels can't be null");
             }
 
             @Override
