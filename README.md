@@ -151,6 +151,9 @@ In order to make easier when develop the tak, I use several library from maven r
       Customer id user, e.g = 123
    3. arg1 = fileLocation
       file location is name of csv file, the file should be stored under **resources** folder. file location should be written with sufix **.csv**
+      
+   example: **java TaxApplicationCommand GST 123 transaction-30lines.csv**
+   
 5. if we success generate the code the cli will show you detail of tax: 
 
 
