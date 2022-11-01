@@ -20,9 +20,15 @@ import systems.achilles.tax.cli.validation.errorcode.TaxErrorDescCode;
 
 public class TaxProcessorImpl implements TaxProcessor {
 
-    TaxService taxService = new TaxServiceImpl();
+    TaxService taxService;
 
-    CSVService csvService = new CSVServiceImp();
+    CSVService csvService;
+
+    public TaxProcessorImpl() {
+        taxService = new TaxServiceImpl();
+        csvService = new CSVServiceImp();
+    }
+
     @Override
     public void taxProcessor(TaxRequestDTO taxRequestDTO) {
 
